@@ -1,0 +1,38 @@
+.desc {
+    background-color:blanchedalmond;
+}
+
+.ingredients {
+    font-weight: bold;
+    background-color:yellow;
+    color:red;
+}
+
+.ingre {
+    background-color: grey;
+}
+
+.directions {
+    background-color:green;
+}
+
+.step {
+    background-color: gold;
+}
+
+.header {
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kebab {
+    color:green;
+}
+
+.guacamole {
+    color:green;
+}
+
+.tacos {
+    color:blue;
+}
