@@ -1,38 +1,38 @@
-.desc {
-    background-color:blanchedalmond;
+body {
+    background: none;
+    font-family: sans-serif;
 }
 
-.ingredients {
-    font-weight: bold;
-    background-color:yellow;
-    color:red;
+
+.card {
+    width: 500px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
 }
 
-.ingre {
-    background-color: grey;
-}
-
-.directions {
-    background-color:green;
-}
-
-.step {
-    background-color: gold;
-}
-
-.header {
-    text-align:center;
-    font-family: 'Times New Roman', Times, serif;
+.title {
+    background: #e3f4ff;
+    font-size: 25px;
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
 }
 
 .kebab {
-    color:green;
-}
-
-.guacamole {
-    color:green;
+    background-color: red;
+    padding: 8px;
+    margin: 8px;
 }
 
 .tacos {
-    color:blue;
+    background-color: yellow;
+    padding: 8px;
+    margin: 8px;
+}
+
+.guacamole {
+    background-color: green;
+    padding: 8px;
+    margin: 8px;
 }
